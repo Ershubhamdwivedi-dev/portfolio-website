@@ -1,1 +1,2 @@
 # portfolio-website
+This is my personal responsive portfolio website built using HTML, CSS, JavaScript, Bootstrap, and jQuery. Is project me maine apne skills, education, projects, aur contact details showcase kiye hain as an AI/ML & Full Stack Developer. Website me smooth animations, typing effect, responsive design, project showcase section, aur social media integration add kiya gaya hai jo meri professional profile ko modern aur attractive way me represent karta hai.
